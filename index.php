@@ -18,6 +18,7 @@ $query = mysqli_query($con,"INSERT INTO test VALUES('1', 'BOWO')");
     <body>
     hei !
     <h1> HELLO</h1>
+    <h2> ini h2</h2>
     
     </body>
 </html>
